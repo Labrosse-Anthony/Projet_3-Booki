@@ -1,6 +1,6 @@
 # Booki
 
-![Aperçu du site Booki](./images/Capture-ecran-readme.png)
+![Aperçu du site Booki](./images/Capture-ecran-readme.webp)
 
 - Ce travail a été réalisé dans le cadre du projet n°3 de la formation Intégrateur Web d’OpenClassrooms.
 
